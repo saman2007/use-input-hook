@@ -3,7 +3,7 @@
 useInput is a custom hook that helps you validate your inputs very easier with giving you created functions.
 
 ## what is my purpose?
-i had to create a lot of functions to validate just an input! and to validate a form that has 4 or 5 inputs, i had to crate a lot of functions that do almost the same as the other. so i told myself why dont you create a react custom hook to validate your inputs easier without writing functions that do the same thing? and i created this custom hook! an other purpose is that i really like to help other developer with creating tools. so i do my best to create useful tools to help the community even a little.
+i had to create a lot of functions to validate just an input! and to validate a form that has 4 or 5 inputs, i had to create a lot of functions that do almost the same as the other. so i told myself why dont you create a react custom hook to validate your inputs easier without writing functions that do the same thing? and i created this custom hook! an other purpose is that i really like to help other developer with creating tools. so i do my best to create useful tools to help the community even a little.
 
 ## what new things did i learn?
 i learned that i always should think about making my works easier. because it helps me write more readable codes.
